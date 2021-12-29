@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\Paiza">
+      <UniqueIdentifier>{be38c6b8-1f9f-4942-8013-11ece57b97c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Paiza\WorkBook">
+      <UniqueIdentifier>{ec22e823-3683-475e-a429-746fd8011893}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\CrackingTheCodingInterview">
+      <UniqueIdentifier>{699f92ff-1e2a-421f-9637-110668850bd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\CrackingTheCodingInterview\ArrayAndString">
+      <UniqueIdentifier>{dc22d46d-8ef4-4fca-a578-578b58a12c15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\CrackingTheCodingInterview\LinkedList">
+      <UniqueIdentifier>{0eaa92cb-8f36-4a7d-a315-20d086b78930}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\ProblemSolvingAlgorithm">
+      <UniqueIdentifier>{7a765634-57fa-419c-8a6f-2297892ede91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\ProblemSolvingAlgorithm\BruteForceSearch">
+      <UniqueIdentifier>{6ee0c4c8-8e92-4372-9d46-842303114c94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\CheetahBook">
+      <UniqueIdentifier>{0cf385fd-f2ef-470b-ac73-44ab5b1db219}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\ProblemSolvingAlgorithm\Recursion">
+      <UniqueIdentifier>{f7b1d97e-631e-493e-bec1-62178b2cc626}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\ProblemSolvingAlgorithm\DynamicProgramming">
+      <UniqueIdentifier>{950db7dd-ae43-4090-a2d4-491f86c66dfd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CompetitiveProgramming.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="ShellSort.cpp">
+      <Filter>ソース ファイル\Paiza\WorkBook</Filter>
+    </ClCompile>
+    <ClCompile Include="NoDuplicateString.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview\ArrayAndString</Filter>
+    </ClCompile>
+    <ClCompile Include="PermutationCheck.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview\ArrayAndString</Filter>
+    </ClCompile>
+    <ClCompile Include="URLify.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview\ArrayAndString</Filter>
+    </ClCompile>
+    <ClCompile Include="BulkConverter.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview\ArrayAndString</Filter>
+    </ClCompile>
+    <ClCompile Include="WordCompresser.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview\ArrayAndString</Filter>
+    </ClCompile>
+    <ClCompile Include="MatrixRotater.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview\ArrayAndString</Filter>
+    </ClCompile>
+    <ClCompile Include="ZeroMatrix.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview\ArrayAndString</Filter>
+    </ClCompile>
+    <ClCompile Include="DuplicateElementDelete.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview\LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="BackSearch.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview\LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="BetweenDelete.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview\LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="SeparationSort.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview\LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="PalindromeChecker.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview\LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularList.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview</Filter>
+    </ClCompile>
+    <ClCompile Include="ForwardList.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview</Filter>
+    </ClCompile>
+    <ClCompile Include="BitBruteForce.cpp">
+      <Filter>ソース ファイル\ProblemSolvingAlgorithm\BruteForceSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="Solutions.cpp">
+      <Filter>ソース ファイル\ProblemSolvingAlgorithm\BruteForceSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="BruteForceSearchSolutions.cpp">
+      <Filter>ソース ファイル\CheetahBook</Filter>
+    </ClCompile>
+    <ClCompile Include="BruteForceRecursion.cpp">
+      <Filter>ソース ファイル\ProblemSolvingAlgorithm\Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="RecursionSolutions.cpp">
+      <Filter>ソース ファイル\ProblemSolvingAlgorithm\Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicProgrammingSolutions.cpp">
+      <Filter>ソース ファイル\ProblemSolvingAlgorithm\DynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="FrogProblem.cpp">
+      <Filter>ソース ファイル\ProblemSolvingAlgorithm\DynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="Knapsack.cpp">
+      <Filter>ソース ファイル\ProblemSolvingAlgorithm\DynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="DPandMemoSolutions.cpp">
+      <Filter>ソース ファイル\CheetahBook</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CompetitiveProgramming.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt" />
+  </ItemGroup>
+</Project>
