@@ -43,88 +43,131 @@
     <Filter Include="ソース ファイル\ProblemSolvingAlgorithm\DynamicProgramming">
       <UniqueIdentifier>{950db7dd-ae43-4090-a2d4-491f86c66dfd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ソース ファイル\Paiza\WorkBook\DPmenu">
+      <UniqueIdentifier>{305d683d-278c-47cf-aa48-408a199c01f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\ProblemSolvingAlgorithm\Athletics">
+      <UniqueIdentifier>{c57029c5-6fec-4dd5-9316-ccec4aa1e0c9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CompetitiveProgramming.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="ShellSort.cpp">
+    <ClCompile Include="Paiza\WorkBook\ShellSort.cpp">
       <Filter>ソース ファイル\Paiza\WorkBook</Filter>
     </ClCompile>
-    <ClCompile Include="NoDuplicateString.cpp">
+    <ClCompile Include="CrackingTheCodingInterview\ArrayAndString\NoDuplicateString.cpp">
       <Filter>ソース ファイル\CrackingTheCodingInterview\ArrayAndString</Filter>
     </ClCompile>
-    <ClCompile Include="PermutationCheck.cpp">
+    <ClCompile Include="CrackingTheCodingInterview\ArrayAndString\PermutationCheck.cpp">
       <Filter>ソース ファイル\CrackingTheCodingInterview\ArrayAndString</Filter>
     </ClCompile>
-    <ClCompile Include="URLify.cpp">
+    <ClCompile Include="CrackingTheCodingInterview\ArrayAndString\URLify.cpp">
       <Filter>ソース ファイル\CrackingTheCodingInterview\ArrayAndString</Filter>
     </ClCompile>
-    <ClCompile Include="BulkConverter.cpp">
+    <ClCompile Include="CrackingTheCodingInterview\ArrayAndString\BulkConverter.cpp">
       <Filter>ソース ファイル\CrackingTheCodingInterview\ArrayAndString</Filter>
     </ClCompile>
-    <ClCompile Include="WordCompresser.cpp">
+    <ClCompile Include="CrackingTheCodingInterview\ArrayAndString\WordCompresser.cpp">
       <Filter>ソース ファイル\CrackingTheCodingInterview\ArrayAndString</Filter>
     </ClCompile>
-    <ClCompile Include="MatrixRotater.cpp">
+    <ClCompile Include="CrackingTheCodingInterview\ArrayAndString\MatrixRotater.cpp">
       <Filter>ソース ファイル\CrackingTheCodingInterview\ArrayAndString</Filter>
     </ClCompile>
-    <ClCompile Include="ZeroMatrix.cpp">
+    <ClCompile Include="CrackingTheCodingInterview\ArrayAndString\ZeroMatrix.cpp">
       <Filter>ソース ファイル\CrackingTheCodingInterview\ArrayAndString</Filter>
     </ClCompile>
-    <ClCompile Include="DuplicateElementDelete.cpp">
+    <ClCompile Include="CrackingTheCodingInterview\LinkedList\DuplicateElementDelete.cpp">
       <Filter>ソース ファイル\CrackingTheCodingInterview\LinkedList</Filter>
     </ClCompile>
-    <ClCompile Include="BackSearch.cpp">
+    <ClCompile Include="CrackingTheCodingInterview\LinkedList\BackSearch.cpp">
       <Filter>ソース ファイル\CrackingTheCodingInterview\LinkedList</Filter>
     </ClCompile>
-    <ClCompile Include="BetweenDelete.cpp">
+    <ClCompile Include="CrackingTheCodingInterview\LinkedList\BetweenDelete.cpp">
       <Filter>ソース ファイル\CrackingTheCodingInterview\LinkedList</Filter>
     </ClCompile>
-    <ClCompile Include="SeparationSort.cpp">
+    <ClCompile Include="CrackingTheCodingInterview\LinkedList\SeparationSort.cpp">
       <Filter>ソース ファイル\CrackingTheCodingInterview\LinkedList</Filter>
     </ClCompile>
-    <ClCompile Include="PalindromeChecker.cpp">
+    <ClCompile Include="CrackingTheCodingInterview\LinkedList\PalindromeChecker.cpp">
       <Filter>ソース ファイル\CrackingTheCodingInterview\LinkedList</Filter>
     </ClCompile>
-    <ClCompile Include="CircularList.cpp">
-      <Filter>ソース ファイル\CrackingTheCodingInterview</Filter>
-    </ClCompile>
-    <ClCompile Include="ForwardList.cpp">
-      <Filter>ソース ファイル\CrackingTheCodingInterview</Filter>
-    </ClCompile>
-    <ClCompile Include="BitBruteForce.cpp">
+    <ClCompile Include="ProblemSolvingAlgorithm\BitBruteForce\BitBruteForce.cpp">
       <Filter>ソース ファイル\ProblemSolvingAlgorithm\BruteForceSearch</Filter>
     </ClCompile>
-    <ClCompile Include="Solutions.cpp">
+    <ClCompile Include="ProblemSolvingAlgorithm\BitBruteForce\Solutions.cpp">
       <Filter>ソース ファイル\ProblemSolvingAlgorithm\BruteForceSearch</Filter>
     </ClCompile>
-    <ClCompile Include="BruteForceSearchSolutions.cpp">
+    <ClCompile Include="CheetahBook\BruteForceSearchSolutions.cpp">
       <Filter>ソース ファイル\CheetahBook</Filter>
     </ClCompile>
-    <ClCompile Include="BruteForceRecursion.cpp">
+    <ClCompile Include="ProblemSolvingAlgorithm\Recursion\BruteForceRecursion.cpp">
       <Filter>ソース ファイル\ProblemSolvingAlgorithm\Recursion</Filter>
     </ClCompile>
-    <ClCompile Include="RecursionSolutions.cpp">
+    <ClCompile Include="ProblemSolvingAlgorithm\Recursion\RecursionSolutions.cpp">
       <Filter>ソース ファイル\ProblemSolvingAlgorithm\Recursion</Filter>
     </ClCompile>
-    <ClCompile Include="DynamicProgrammingSolutions.cpp">
+    <ClCompile Include="ProblemSolvingAlgorithm\DynamicProgramming\DynamicProgrammingSolutions.cpp">
       <Filter>ソース ファイル\ProblemSolvingAlgorithm\DynamicProgramming</Filter>
     </ClCompile>
-    <ClCompile Include="FrogProblem.cpp">
+    <ClCompile Include="ProblemSolvingAlgorithm\DynamicProgramming\FrogProblem.cpp">
       <Filter>ソース ファイル\ProblemSolvingAlgorithm\DynamicProgramming</Filter>
     </ClCompile>
-    <ClCompile Include="Knapsack.cpp">
+    <ClCompile Include="ProblemSolvingAlgorithm\DynamicProgramming\Knapsack.cpp">
       <Filter>ソース ファイル\ProblemSolvingAlgorithm\DynamicProgramming</Filter>
     </ClCompile>
-    <ClCompile Include="DPandMemoSolutions.cpp">
+    <ClCompile Include="CheetahBook\DPandMemoSolutions.cpp">
       <Filter>ソース ファイル\CheetahBook</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="CompetitiveProgramming.hpp">
-      <Filter>ヘッダー ファイル</Filter>
-    </ClInclude>
+    <ClCompile Include="Paiza\WorkBook\DPMenu\RecurrenceFormula.cpp">
+      <Filter>ソース ファイル\Paiza\WorkBook\DPmenu</Filter>
+    </ClCompile>
+    <ClCompile Include="Paiza\WorkBook\DPMenu\HowToUpstair.cpp">
+      <Filter>ソース ファイル\Paiza\WorkBook\DPmenu</Filter>
+    </ClCompile>
+    <ClCompile Include="ProblemSolvingAlgorithm\DynamicProgramming\EditDistance.cpp">
+      <Filter>ソース ファイル\ProblemSolvingAlgorithm\DynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="CrackingTheCodingInterview\LinkedList\TwoSumList.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview\LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="CrackingTheCodingInterview\StackSolutions.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview</Filter>
+    </ClCompile>
+    <ClCompile Include="CrackingTheCodingInterview\LinkedList\CircularList.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview\LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="CrackingTheCodingInterview\LinkedList\ForwardList.cpp">
+      <Filter>ソース ファイル\CrackingTheCodingInterview\LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="Paiza\WorkBook\StackAndQueueSolutions.cpp">
+      <Filter>ソース ファイル\Paiza\WorkBook</Filter>
+    </ClCompile>
+    <ClCompile Include="Paiza\WorkBook\TreeMenu\Tryangle.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Paiza\WorkBook\TreeMenu\MountainClimbing.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Paiza\WorkBook\BFS_DFSMenu\Maze.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Paiza\WorkBook\BFS_DFSMenu\ShortestPath.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Paiza\WorkBook\BFS_DFSMenu\DistanceBetweenTwoVertices.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Paiza\WorkBook\BFS_DFSMenu\NumberOfAreas.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Paiza\WorkBook\BFS_DFSMenu\OneMoveVertex.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Paiza\WorkBook\BFS_DFSMenu\ConnectedComponentsCount.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />

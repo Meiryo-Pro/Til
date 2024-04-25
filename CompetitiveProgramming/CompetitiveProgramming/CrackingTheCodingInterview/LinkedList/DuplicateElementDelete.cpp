@@ -34,10 +34,6 @@ int main()
 	Print(list);
 }
 
-void Delete(list<int>& list)
-{
-
-}
 
 void Print(const list<int>& list)
 {
